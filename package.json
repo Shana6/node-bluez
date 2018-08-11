@@ -28,8 +28,5 @@
   },
   "bugs": {
     "url": "https://github.com/waeco/node-bluez/issues"
-  },
-  "os": [
-    "!win32"
-  ]
+  }
 }
